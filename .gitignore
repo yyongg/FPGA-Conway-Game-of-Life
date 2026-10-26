@@ -1,0 +1,4 @@
+# testbench outputs
+*.vvp
+*.vcd
+/top
